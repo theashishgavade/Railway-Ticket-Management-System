@@ -1,0 +1,107 @@
+
+/*
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+AUTHOR : Vijayan PP
+PROJECT :Nim
+VERSION : 1.1
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+*/
+
+.themecolor
+{
+    color:#1963f8;/*Defines the theme color*/
+}
+
+.theme_background_color,#downloadbt:hover
+{
+    background-color:#1963f8; /*Defines the theme bakcground color*/
+}
+.nim-menu.navbar-default .navbar-nav > li > a:hover
+ {
+color:#1963f8;
+}
+.social li a:hover
+{
+    color:#1963f8;
+}
+.sub-footer
+{
+    border-top-color:#1963f8;
+}
+.work-desc
+{
+    background:#1963f8;
+}
+.work-desc h3
+{
+    color:#fff;
+}
+
+.footer
+{
+    border-top-color:#1963f8;
+}
+.black
+{
+    color:#000;
+}
+
+.white
+{
+    color:#fff;
+}
+.black-background
+{
+    background-color:#000;
+}
+
+.white-background
+{
+    background-color:#fff;
+}
+
+.grey
+{
+    color:#676565;
+}
+.grey_background_color
+{
+    background-color:#676565;
+}
+
+.sectionTitle hr
+{
+  border-color:#1963f8; 
+}
+
+.sectionTitle .line{
+    border-color:#fff;
+}
+
+.sectionTitle .line hr
+{
+    border-color:#dbdbdb;
+}
+
+ol.type li a:hover{ color:#1963f8;}
+
+.ramsh-menu.navbar-default .navbar-nav > li > a:hover,a.fa.fa-angle-down:hover,.navbar-default .navbar-nav > .active > a,.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus
+{
+    color:#1963f8;
+}
+
+.navbar-toggle
+{
+ 
+ color:#1963f8;
+}
+
+.owl-theme .owl-controls .owl-page.active span, 
+.owl-theme .owl-controls.clickable .owl-page:hover span,#contactbtn:hover {
+	
+	background:#1963f8;
+}
+.owl-theme .owl-controls .owl-page.active span{
+	background:#1963f8;
+}
