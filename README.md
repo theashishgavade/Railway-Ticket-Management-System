@@ -46,5 +46,59 @@ Admin Credentials:-
 
 NB: you will find the train only if the selected stations match any train routes.
 
+## Here Are Some Screenshots Of our Project
 
-![Image](https://user-images.githubusercontent.com/53784551/124384246-266ff580-dcf2-11eb-94da-e991d0942d50.png)
+### 1. Main Page
+![Image](https://github.com/theashishgavade/Railway-Ticket-Management-System/blob/main/Screenshots/1.%20Main%20Page.png)
+
+
+
+### 2. Contact us.png
+![Image]()
+
+
+
+### 3. Reservation main.png
+![Image]()
+
+
+
+### 4. Accomadetion
+![Image]()
+
+
+
+### 5. Passenger Info.png
+![Image]()
+
+
+
+### 6. Booking Successful.png
+![Image]()
+
+
+
+### 7. Booking Confirmation with online payment.png
+![Image]()
+
+
+
+### 8. Pay Online
+![Image]()
+
+
+
+### 9. Admin Login
+![Image]()
+
+
+
+### 10. Admin Pannel
+![Image]()
+
+
+
+### 11. Booking _ Transaction Details
+![Image]()
+
+
