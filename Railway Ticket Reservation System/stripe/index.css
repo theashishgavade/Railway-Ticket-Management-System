@@ -1,0 +1,37 @@
+*{
+	font-family: calibri;
+    	
+}
+body{
+	background-image : url('online_transaction.jpg');
+	background-size: cover;
+}
+.form_s{
+	width: 40%;
+	margin-left: 30%;
+	height :auto;
+	background-color: #ffffff;
+	margin-top: 100px;
+	border-radius:5px;
+	padding : 20px;
+}
+
+
+h1{
+text-align:center;
+color:#6772E5;
+}
+input{
+	height: 40px;
+	border-radius:5px;
+border:1px solid gray;}
+button{
+	height: 40px;
+	background-color:#3cb371;
+	border:none;
+	border-radius:5px;
+color:#ffffff;}
+form{
+	width:50%;
+	margin-left:25%;
+}
