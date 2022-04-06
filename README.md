@@ -24,11 +24,11 @@ step 3: If 80 port is not free, make it free and then start apache again(uninsta
 
 step 4: If 3306 port is not free, make it free and then start mysql again(uninstall mariaDB or other mysql software that uses port 3306).
 
-step 5: copy the RTMS.zip at C://xampp/htdocs and then extract here.
+step 5: copy the Database at C://xampp/htdocs and then extract here.
 
 step 6: visit localhost/phpmyadmin and create a new database named "rtms".
 
-step 7: select rtms and import rtms.sql file here.
+step 7: select Database file which has extention.sql and import it to the Database .
 
 step 8: set you db user name and password at config.php and Admin/config.php. by default, it is "root" and ""(empty)
     *You are almost done*
@@ -45,3 +45,6 @@ Admin Credentials:-
 ```
 
 NB: you will find the train only if the selected stations match any train routes.
+
+
+![Image](https://user-images.githubusercontent.com/53784551/124384246-266ff580-dcf2-11eb-94da-e991d0942d50.png)
